@@ -14,10 +14,10 @@ Features
 Installation
 
 	1.	Clone the repository:
-      git clone https://github.com/yourusername/Project_Code_in_Place.git
+      git clone https://github.com/yourusername/food_profit_calculator.git
 
  	2.	Navigate to the project directory:
-      cd Project_Code_in_Place
+      cd food_profit_calculator
 
   3. Install the requirements:
      pip install -r requirements.txt
